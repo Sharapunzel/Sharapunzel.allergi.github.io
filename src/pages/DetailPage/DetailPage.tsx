@@ -1,6 +1,6 @@
 import React from "react";
 import "../../App.css";
-import imgsrc from "../../public/яблоки.jpg";
+import imgsrc from "../../Pictures/яблоки.jpg";
 import {useNavigate, useParams} from "react-router-dom";
 
 export default function DetailPage(){

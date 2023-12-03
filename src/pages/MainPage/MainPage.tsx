@@ -1,6 +1,6 @@
 import React from "react";
 import "../../App.css";
-import logosrc from "../../public/аллергия.png";
+import logosrc from "../../Pictures/аллергия.png";
 import {useNavigate} from "react-router-dom";
 import CustomSwiper from "../CustomSwiper/CustomSwiper";
 
