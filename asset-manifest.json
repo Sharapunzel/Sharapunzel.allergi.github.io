@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yanas-project-site/static/css/main.2259aba7.css",
+    "main.js": "/yanas-project-site/static/js/main.c896ee0d.js",
+    "static/js/787.f2a856b4.chunk.js": "/yanas-project-site/static/js/787.f2a856b4.chunk.js",
+    "static/media/аллергия.png": "/yanas-project-site/static/media/аллергия.0e8cc71f79fd41ac459e.png",
+    "index.html": "/yanas-project-site/index.html",
+    "main.2259aba7.css.map": "/yanas-project-site/static/css/main.2259aba7.css.map",
+    "main.c896ee0d.js.map": "/yanas-project-site/static/js/main.c896ee0d.js.map",
+    "787.f2a856b4.chunk.js.map": "/yanas-project-site/static/js/787.f2a856b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2259aba7.css",
+    "static/js/main.c896ee0d.js"
+  ]
+}
