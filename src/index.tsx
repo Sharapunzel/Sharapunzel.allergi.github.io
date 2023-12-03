@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+const fonts = `<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Overpass+Mono:wght@400;500;600;700&family=Space+Mono:wght@400;700&family=Ubuntu+Mono:wght@400;700&display=swap');
+</style>`
+
+document.head.innerHTML = document.head.innerHTML + fonts;
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
